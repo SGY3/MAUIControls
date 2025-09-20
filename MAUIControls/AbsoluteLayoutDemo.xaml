@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MAUIControls.AbsoluteLayoutDemo"
+             Title="AbsoluteLayoutDemo">
+    <AbsoluteLayout>
+        <!--"x,y,w,h"-->
+        <Button Text="Button 1" 
+        BackgroundColor="LightBlue"
+        AbsoluteLayout.LayoutBounds="0.1, 0.1, 100, 50"  
+        AbsoluteLayout.LayoutFlags="None"/>
+    </AbsoluteLayout>
+</ContentPage>
