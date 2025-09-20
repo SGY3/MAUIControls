@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MAUIControls.StackPageDemo"
              Title="StackPageDemo">
-    <StackLayout Spacing="10" Orientation="Vertical>
+    <StackLayout Spacing="10" Orientation="Vertical">
         <Label 
             Text="Label 1"
             VerticalOptions="Center" 

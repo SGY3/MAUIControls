@@ -9,7 +9,7 @@
             //navPage.BarBackground = Colors.Green;
             //navPage.BarTextColor = Colors.White;
             //MainPage = navPage;
-            MainPage = new StackPageDemo();
+            MainPage = new GridlayoutDemo();
         }
     }
 }
